@@ -1,4 +1,4 @@
-# Author:  Luke Babcock
+# Author:  Luke F Babcock
 # Date:  3/29/2021
 # Description:  Asks the user for their favorite animal and then
 #               prints out that that is their favorite animal
